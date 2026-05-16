@@ -67,3 +67,27 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Local/build/cache
+build/
+*/build/
+.venv/
+venv/
+__pycache__/
+**/__pycache__/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+logs/
+**/logs/
+
+# Heavy/generated data
+results/raw/
+results/configs_ml/
+*.bin
+*.npy
+*.pt
+*.joblib
+
+# OS/editor
+.DS_Store
+.vscode/
