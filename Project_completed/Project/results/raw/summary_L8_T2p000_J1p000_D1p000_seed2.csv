@@ -1,0 +1,2 @@
+L,T,J,D,Bx,By,Bz,seed,therm_sweeps,samples,skip,proposal_width,E_density_mean,E_density_stderr,M_abs_mean,M_abs_stderr,chi_abs,chi_vec,Cv_per_spin,helical_order_mean,helical_order_stderr,helical_susc_like,acceptance_rate,q_peak_final,axis_peak_final,n_peak_final,ml_configs_saved
+8,2,1,1,0,0,0,2,100,150,2,0.69999999999999996,-0.99894931241522311,0.0045514469200216125,0.063248433863743209,0.0016650396074908457,0.10645850474930957,0.51762630729582249,0.39774084606286503,0.034448715960227541,0.0007556680778291184,0.021927714963838257,0.88899088541666671,0.78539816339744828,2,1,0
